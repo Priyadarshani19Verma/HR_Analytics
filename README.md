@@ -3,6 +3,7 @@ Power BI Dashboard
 
 
 Project Objective :  The objective of an HR analytics report made in Power BI is to provide actionable insights by leveraging data to optimize workforce management, enhance decision-making, and align HR strategies 
+                    
                      with organizational goals.
 
 
